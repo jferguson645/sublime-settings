@@ -1,12 +1,12 @@
 sublime-settings
 ================
 
-Configuration for Sublime Text 2i
+Configuration for Sublime Text 2
 
- - Users/jferguson/AppData/Roaming/Sublime Text 2/Packages/User
-   -- tomorrow-night.tmTheme
-   -- preferences.sublime-settings
+ - Users/jferguson/AppData/Roaming/Sublime Text 2/Packages/User<br/>
+   -- tomorrow-night.tmTheme<br/>
+   -- preferences.sublime-settings<br/>
 
- - Windows/Fonts
-   -- font files
+ - Windows/Fonts<br/>
+   -- font files<br/>
 
